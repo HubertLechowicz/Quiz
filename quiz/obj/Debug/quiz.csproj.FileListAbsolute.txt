@@ -1,0 +1,14 @@
+C:\Users\Hubert\source\repos\quiz\quiz\bin\Debug\quiz.exe.config
+C:\Users\Hubert\source\repos\quiz\quiz\bin\Debug\quiz.exe
+C:\Users\Hubert\source\repos\quiz\quiz\bin\Debug\quiz.pdb
+C:\Users\Hubert\source\repos\quiz\quiz\obj\Debug\quiz.csprojAssemblyReference.cache
+C:\Users\Hubert\source\repos\quiz\quiz\obj\Debug\quiz.Form1.resources
+C:\Users\Hubert\source\repos\quiz\quiz\obj\Debug\quiz.Properties.Resources.resources
+C:\Users\Hubert\source\repos\quiz\quiz\obj\Debug\quiz.csproj.GenerateResource.cache
+C:\Users\Hubert\source\repos\quiz\quiz\obj\Debug\quiz.csproj.CoreCompileInputs.cache
+C:\Users\Hubert\source\repos\quiz\quiz\obj\Debug\quiz.exe
+C:\Users\Hubert\source\repos\quiz\quiz\obj\Debug\quiz.pdb
+C:\Users\Hubert\source\repos\quiz\quiz\obj\Debug\quiz.QuestionsPanel.resources
+C:\Users\Hubert\source\repos\quiz\quiz\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Hubert\source\repos\quiz\quiz\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Hubert\source\repos\quiz\quiz\obj\Debug\quiz.csproj.CopyComplete
