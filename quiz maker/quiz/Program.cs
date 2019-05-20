@@ -8,7 +8,7 @@ namespace quiz
 {
     static class Constants
     {
-        public const string fileName = "quizy.json";
+        public const string fileName = "questions.json";
     }
     static class Program
     {

@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Newtonsoft.Json;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -13,7 +14,14 @@ namespace quiz
     public partial class Form1 : Form, IView
     {
         #region Prop
-       public IQuestionsPanelView QuestionsView { get { return questions1; } }
+       
+        public static Questions questions;
+
+        public IQuestionsPanelView QuestionsView { get { return questions1; } }
+        #endregion
+
+        #region Events
+        public event Action FormLoaded;
         #endregion
 
         public Form1()
@@ -26,6 +34,8 @@ namespace quiz
         private void Form1_Load(object sender, EventArgs e)
         {
 
+            FormLoaded?.Invoke();
         }
+
     }
 }

@@ -11,5 +11,9 @@ namespace quiz
         #region Prop
         IQuestionsPanelView QuestionsView { get; }
         #endregion
+
+        #region Events
+        event Action FormLoaded;
+        #endregion
     }
 }
