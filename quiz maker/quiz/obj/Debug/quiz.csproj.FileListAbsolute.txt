@@ -12,3 +12,17 @@ C:\Users\Hubert\source\repos\quiz\quiz\obj\Debug\quiz.QuestionsPanel.resources
 C:\Users\Hubert\source\repos\quiz\quiz\bin\Debug\Newtonsoft.Json.dll
 C:\Users\Hubert\source\repos\quiz\quiz\bin\Debug\Newtonsoft.Json.xml
 C:\Users\Hubert\source\repos\quiz\quiz\obj\Debug\quiz.csproj.CopyComplete
+E:\Studia\Programowanie\Sem IV\QuizWithHubert\quiz maker\quiz\bin\Debug\quiz.exe.config
+E:\Studia\Programowanie\Sem IV\QuizWithHubert\quiz maker\quiz\bin\Debug\quiz.exe
+E:\Studia\Programowanie\Sem IV\QuizWithHubert\quiz maker\quiz\bin\Debug\quiz.pdb
+E:\Studia\Programowanie\Sem IV\QuizWithHubert\quiz maker\quiz\bin\Debug\Newtonsoft.Json.dll
+E:\Studia\Programowanie\Sem IV\QuizWithHubert\quiz maker\quiz\bin\Debug\Newtonsoft.Json.xml
+E:\Studia\Programowanie\Sem IV\QuizWithHubert\quiz maker\quiz\obj\Debug\quiz.csprojAssemblyReference.cache
+E:\Studia\Programowanie\Sem IV\QuizWithHubert\quiz maker\quiz\obj\Debug\quiz.Form1.resources
+E:\Studia\Programowanie\Sem IV\QuizWithHubert\quiz maker\quiz\obj\Debug\quiz.Properties.Resources.resources
+E:\Studia\Programowanie\Sem IV\QuizWithHubert\quiz maker\quiz\obj\Debug\quiz.QuestionsPanel.resources
+E:\Studia\Programowanie\Sem IV\QuizWithHubert\quiz maker\quiz\obj\Debug\quiz.csproj.GenerateResource.cache
+E:\Studia\Programowanie\Sem IV\QuizWithHubert\quiz maker\quiz\obj\Debug\quiz.csproj.CoreCompileInputs.cache
+E:\Studia\Programowanie\Sem IV\QuizWithHubert\quiz maker\quiz\obj\Debug\quiz.csproj.CopyComplete
+E:\Studia\Programowanie\Sem IV\QuizWithHubert\quiz maker\quiz\obj\Debug\quiz.exe
+E:\Studia\Programowanie\Sem IV\QuizWithHubert\quiz maker\quiz\obj\Debug\quiz.pdb
